@@ -1,0 +1,30 @@
+{
+  "name": "pack",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brooksrelyt/pack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brooksrelyt/pack/issues"
+  },
+  "homepage": "https://github.com/brooksrelyt/pack#readme",
+  "devDependencies": {
+    "sass": "^1.26.10",
+    "sass-loader": "^10.0.1",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  },
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "style-loader": "^1.2.1"
+  }
+}
